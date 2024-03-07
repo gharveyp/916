@@ -1,0 +1,162 @@
+[2024-02-29 03:26:23 : INFO] - Re_Smush_It_Task server status: Online 
+[2024-02-29 03:26:23 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2024-02-29 03:26:23 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2024-02-29 03:26:23 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2024-02-29 03:26:23 : INFO] - Processing task with ID : 1, and type 'smush' 
+[2024-02-29 03:26:23 : INFO] - Re_Smush_It_Task - Attachment ID : 7, Started on : February 29, 2024 03:26:23 
+[2024-02-29 03:26:23 : INFO] - File: 916-SACRAMENTO.png, Compression quality: 92 
+[2024-02-29 03:26:25 : INFO] - Backing up the original image - 2024/02/916-SACRAMENTO-updraft-pre-smush-original.png 
+[2024-02-29 03:26:27 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-02-29 03:26:27 : INFO] - Successfully optimized the image - /Users/harbi/Sites/localhost/wordpress/wp-content/uploads/2024/02/916-SACRAMENTO.png.The file was compressed from 28.17 KB to 15.43 KB, saving 45.23 percent, using WP-Optimize 
+[2024-02-29 03:26:27 : INFO] - Completed processing task with ID : 1, and type 'smush' 
+[2024-02-29 03:26:27 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2024-02-29 03:26:27 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2024-02-29 03:26:27 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2024-02-29 03:26:27 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2024-02-29 05:55:08 : INFO] - Pruning the smush log file 
+[2024-03-02 07:08:47 : INFO] - Re_Smush_It_Task server status: Online 
+[2024-03-02 07:08:47 : INFO] - A total of 14 tasks of type smush found and will be processed in this iteration 
+[2024-03-02 07:08:47 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2024-03-02 07:08:47 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2024-03-02 07:08:47 : INFO] - Processing task with ID : 1, and type 'smush' 
+[2024-03-02 07:08:47 : INFO] - Re_Smush_It_Task - Attachment ID : 671, Started on : March 02, 2024 07:08:47 
+[2024-03-02 07:08:47 : INFO] - File: customizable-every-space.jpeg, Compression quality: 92 
+[2024-03-02 07:08:52 : INFO] - Backing up the original image - 2024/02/customizable-every-space-updraft-pre-smush-original.jpeg 
+[2024-03-02 07:09:06 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-03-02 07:09:06 : INFO] - Successfully optimized the image - /Users/harbi/Sites/localhost/wordpress/wp-content/uploads/2024/02/customizable-every-space.jpeg.The file was compressed from 253.67 KB to 253.67 KB, saving 0 percent, using WP-Optimize 
+[2024-03-02 07:09:06 : INFO] - Completed processing task with ID : 1, and type 'smush' 
+[2024-03-02 07:09:06 : INFO] - Processing task with ID : 2, and type 'smush' 
+[2024-03-02 07:09:06 : INFO] - Re_Smush_It_Task - Attachment ID : 672, Started on : March 02, 2024 07:08:47 
+[2024-03-02 07:09:06 : INFO] - File: environmental-friendly-solutions.jpeg, Compression quality: 92 
+[2024-03-02 07:09:10 : INFO] - Backing up the original image - 2024/02/environmental-friendly-solutions-updraft-pre-smush-original.jpeg 
+[2024-03-02 07:09:17 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-03-02 07:09:17 : INFO] - Successfully optimized the image - /Users/harbi/Sites/localhost/wordpress/wp-content/uploads/2024/02/environmental-friendly-solutions.jpeg.The file was compressed from 117.03 KB to 117.03 KB, saving 0 percent, using WP-Optimize 
+[2024-03-02 07:09:17 : INFO] - Completed processing task with ID : 2, and type 'smush' 
+[2024-03-02 07:09:17 : INFO] - Processing task with ID : 3, and type 'smush' 
+[2024-03-02 07:09:17 : INFO] - Re_Smush_It_Task - Attachment ID : 673, Started on : March 02, 2024 07:08:47 
+[2024-03-02 07:09:17 : INFO] - File: environmentally-friendly-solutions.jpeg, Compression quality: 92 
+[2024-03-02 07:09:31 : INFO] - Backing up the original image - 2024/02/environmentally-friendly-solutions-updraft-pre-smush-original.jpeg 
+[2024-03-02 07:09:47 : INFO] - A total of 12 tasks of type smush found and will be processed in this iteration 
+[2024-03-02 07:09:47 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2024-03-02 07:09:47 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2024-03-02 07:09:47 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2024-03-02 07:09:47 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2024-03-02 07:09:52 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-03-02 07:09:52 : INFO] - Successfully optimized the image - /Users/harbi/Sites/localhost/wordpress/wp-content/uploads/2024/02/environmentally-friendly-solutions.jpeg.The file was compressed from 3.16 MB to 1.06 MB, saving 66.59 percent, using WP-Optimize 
+[2024-03-02 07:09:52 : INFO] - Completed processing task with ID : 3, and type 'smush' 
+[2024-03-02 07:09:52 : INFO] - Processing task with ID : 4, and type 'smush' 
+[2024-03-02 07:09:52 : INFO] - Re_Smush_It_Task - Attachment ID : 686, Started on : March 02, 2024 07:08:47 
+[2024-03-02 07:09:52 : INFO] - File: logo-background-curve.png, Compression quality: 92 
+[2024-03-02 07:09:57 : INFO] - Backing up the original image - 2024/02/logo-background-curve-updraft-pre-smush-original.png 
+[2024-03-02 07:10:12 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-03-02 07:10:12 : INFO] - Successfully optimized the image - /Users/harbi/Sites/localhost/wordpress/wp-content/uploads/2024/02/logo-background-curve.png.The file was compressed from 186.55 KB to 89.43 KB, saving 52.06 percent, using WP-Optimize 
+[2024-03-02 07:10:12 : INFO] - Completed processing task with ID : 4, and type 'smush' 
+[2024-03-02 07:10:12 : INFO] - Processing task with ID : 5, and type 'smush' 
+[2024-03-02 07:10:12 : INFO] - Re_Smush_It_Task - Attachment ID : 851, Started on : March 02, 2024 07:08:47 
+[2024-03-02 07:10:12 : INFO] - File: realistic-turf-grass-feel.jpeg, Compression quality: 92 
+[2024-03-02 07:10:14 : INFO] - Backing up the original image - 2024/02/realistic-turf-grass-feel-updraft-pre-smush-original.jpeg 
+[2024-03-02 07:10:23 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-03-02 07:10:23 : INFO] - Successfully optimized the image - /Users/harbi/Sites/localhost/wordpress/wp-content/uploads/2024/02/realistic-turf-grass-feel.jpeg.The file was compressed from 76.21 KB to 76.21 KB, saving 0 percent, using WP-Optimize 
+[2024-03-02 07:10:23 : INFO] - Completed processing task with ID : 5, and type 'smush' 
+[2024-03-02 07:10:23 : INFO] - Processing task with ID : 6, and type 'smush' 
+[2024-03-02 07:10:23 : INFO] - Re_Smush_It_Task - Attachment ID : 853, Started on : March 02, 2024 07:08:47 
+[2024-03-02 07:10:23 : INFO] - File: customized-solutions-for-any-space-turf.jpeg, Compression quality: 92 
+[2024-03-02 07:10:29 : INFO] - Backing up the original image - 2024/02/customized-solutions-for-any-space-turf-updraft-pre-smush-original.jpeg 
+[2024-03-02 07:10:47 : INFO] - A total of 9 tasks of type smush found and will be processed in this iteration 
+[2024-03-02 07:10:47 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2024-03-02 07:10:47 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2024-03-02 07:10:47 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2024-03-02 07:10:47 : INFO] - Cleaning up tasks of type (smush). A total of 3 tasks will be deleted. 
+[2024-03-02 07:10:54 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-03-02 07:10:54 : INFO] - Successfully optimized the image - /Users/harbi/Sites/localhost/wordpress/wp-content/uploads/2024/02/customized-solutions-for-any-space-turf.jpeg.The file was compressed from 343.49 KB to 340.18 KB, saving 0.96 percent, using WP-Optimize 
+[2024-03-02 07:10:54 : INFO] - Completed processing task with ID : 6, and type 'smush' 
+[2024-03-02 07:10:54 : INFO] - Processing task with ID : 7, and type 'smush' 
+[2024-03-02 07:10:54 : INFO] - Re_Smush_It_Task - Attachment ID : 1017, Started on : March 02, 2024 07:08:47 
+[2024-03-02 07:10:54 : INFO] - File: about-916-sacramento.png, Compression quality: 92 
+[2024-03-02 07:11:08 : INFO] - Backing up the original image - 2024/03/about-916-sacramento-updraft-pre-smush-original.png 
+[2024-03-02 07:11:30 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-03-02 07:11:30 : INFO] - Successfully optimized the image - /Users/harbi/Sites/localhost/wordpress/wp-content/uploads/2024/03/about-916-sacramento.png.The file was compressed from 1.87 MB to 714.50 KB, saving 62.74 percent, using WP-Optimize 
+[2024-03-02 07:11:30 : INFO] - Completed processing task with ID : 7, and type 'smush' 
+[2024-03-02 07:11:30 : INFO] - Processing task with ID : 8, and type 'smush' 
+[2024-03-02 07:11:30 : INFO] - Re_Smush_It_Task - Attachment ID : 1032, Started on : March 02, 2024 07:08:47 
+[2024-03-02 07:11:30 : INFO] - File: our-dedicated-team.png, Compression quality: 92 
+[2024-03-02 07:11:33 : INFO] - Backing up the original image - 2024/03/our-dedicated-team-updraft-pre-smush-original.png 
+[2024-03-02 07:11:36 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-03-02 07:11:36 : INFO] - Successfully optimized the image - /Users/harbi/Sites/localhost/wordpress/wp-content/uploads/2024/03/our-dedicated-team.png.The file was compressed from 35.58 KB to 15.05 KB, saving 57.71 percent, using WP-Optimize 
+[2024-03-02 07:11:36 : INFO] - Completed processing task with ID : 8, and type 'smush' 
+[2024-03-02 07:11:36 : INFO] - Processing task with ID : 9, and type 'smush' 
+[2024-03-02 07:11:36 : INFO] - Re_Smush_It_Task - Attachment ID : 1033, Started on : March 02, 2024 07:08:47 
+[2024-03-02 07:11:36 : INFO] - File: high-quality-products-and-services.png, Compression quality: 92 
+[2024-03-02 07:11:39 : INFO] - Backing up the original image - 2024/03/high-quality-products-and-services-updraft-pre-smush-original.png 
+[2024-03-02 07:11:43 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-03-02 07:11:43 : INFO] - Successfully optimized the image - /Users/harbi/Sites/localhost/wordpress/wp-content/uploads/2024/03/high-quality-products-and-services.png.The file was compressed from 30.27 KB to 13.00 KB, saving 57.04 percent, using WP-Optimize 
+[2024-03-02 07:11:43 : INFO] - Completed processing task with ID : 9, and type 'smush' 
+[2024-03-02 07:11:43 : INFO] - Processing task with ID : 10, and type 'smush' 
+[2024-03-02 07:11:43 : INFO] - Re_Smush_It_Task - Attachment ID : 1034, Started on : March 02, 2024 07:08:47 
+[2024-03-02 07:11:43 : INFO] - File: customer-satisfaction.png, Compression quality: 92 
+[2024-03-02 07:11:45 : INFO] - Backing up the original image - 2024/03/customer-satisfaction-updraft-pre-smush-original.png 
+[2024-03-02 07:11:47 : INFO] - A total of 5 tasks of type smush found and will be processed in this iteration 
+[2024-03-02 07:11:47 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2024-03-02 07:11:47 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2024-03-02 07:11:47 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2024-03-02 07:11:47 : INFO] - Cleaning up tasks of type (smush). A total of 4 tasks will be deleted. 
+[2024-03-02 07:11:49 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-03-02 07:11:49 : INFO] - Successfully optimized the image - /Users/harbi/Sites/localhost/wordpress/wp-content/uploads/2024/03/customer-satisfaction.png.The file was compressed from 27.29 KB to 11.10 KB, saving 59.33 percent, using WP-Optimize 
+[2024-03-02 07:11:49 : INFO] - Completed processing task with ID : 10, and type 'smush' 
+[2024-03-02 07:11:49 : INFO] - Processing task with ID : 11, and type 'smush' 
+[2024-03-02 07:11:49 : INFO] - Re_Smush_It_Task - Attachment ID : 1052, Started on : March 02, 2024 07:08:47 
+[2024-03-02 07:11:49 : INFO] - File: image-logo-1.png, Compression quality: 92 
+[2024-03-02 07:11:55 : INFO] - Backing up the original image - 2024/03/image-logo-1-updraft-pre-smush-original.png 
+[2024-03-02 07:12:12 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-03-02 07:12:12 : INFO] - Successfully optimized the image - /Users/harbi/Sites/localhost/wordpress/wp-content/uploads/2024/03/image-logo-1.png.The file was compressed from 574.09 KB to 248.05 KB, saving 56.79 percent, using WP-Optimize 
+[2024-03-02 07:12:12 : INFO] - Completed processing task with ID : 11, and type 'smush' 
+[2024-03-02 07:12:12 : INFO] - Processing task with ID : 12, and type 'smush' 
+[2024-03-02 07:12:12 : INFO] - Re_Smush_It_Task - Attachment ID : 1053, Started on : March 02, 2024 07:08:47 
+[2024-03-02 07:12:12 : INFO] - File: zip-03-smiling-business-man-using-digital-tablet-in-the-o-MQF8K3B.png, Compression quality: 92 
+[2024-03-02 07:12:15 : INFO] - Backing up the original image - 2024/03/zip-03-smiling-business-man-using-digital-tablet-in-the-o-MQF8K3B-updraft-pre-smush-original.png 
+[2024-03-02 07:12:20 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-03-02 07:12:20 : INFO] - Successfully optimized the image - /Users/harbi/Sites/localhost/wordpress/wp-content/uploads/2024/03/zip-03-smiling-business-man-using-digital-tablet-in-the-o-MQF8K3B.png.The file was compressed from 158.06 KB to 158.06 KB, saving 0 percent, using WP-Optimize 
+[2024-03-02 07:12:20 : INFO] - Completed processing task with ID : 12, and type 'smush' 
+[2024-03-02 07:12:20 : INFO] - Processing task with ID : 13, and type 'smush' 
+[2024-03-02 07:12:20 : INFO] - Re_Smush_It_Task - Attachment ID : 1054, Started on : March 02, 2024 07:08:47 
+[2024-03-02 07:12:20 : INFO] - File: putting-greens-sacramento.jpeg, Compression quality: 92 
+[2024-03-02 07:12:26 : INFO] - Backing up the original image - 2024/03/putting-greens-sacramento-updraft-pre-smush-original.jpeg 
+[2024-03-02 07:12:42 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-03-02 07:12:43 : INFO] - Successfully optimized the image - /Users/harbi/Sites/localhost/wordpress/wp-content/uploads/2024/03/putting-greens-sacramento.jpeg.The file was compressed from 388.90 KB to 380.56 KB, saving 2.14 percent, using WP-Optimize 
+[2024-03-02 07:12:43 : INFO] - Completed processing task with ID : 13, and type 'smush' 
+[2024-03-02 07:12:43 : INFO] - Processing task with ID : 14, and type 'smush' 
+[2024-03-02 07:12:43 : INFO] - Re_Smush_It_Task - Attachment ID : 1105, Started on : March 02, 2024 07:08:47 
+[2024-03-02 07:12:43 : INFO] - File: atrtificial-grass-labor-cost.jpeg, Compression quality: 92 
+[2024-03-02 07:12:47 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2024-03-02 07:12:47 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2024-03-02 07:12:47 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2024-03-02 07:12:47 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2024-03-02 07:12:47 : INFO] - Cleaning up tasks of type (smush). A total of 4 tasks will be deleted. 
+[2024-03-02 07:12:50 : INFO] - Task with ID 14 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2024-03-02 07:12:50 : INFO] - data: {"src":"http:\/\/hel2.static.resmush.it\/4ad081707d43e15ecf21010b1e50334b\/_src_atrtificial-grass-labor-cost.jpeg","dest":"http:\/\/hel2.static.resmush.it\/4ad081707d43e15ecf21010b1e50334b\/atrtificial-grass-labor-cost.jpeg","src_size":315774,"dest_size":315774,"percent":0,"output":"json","expires":"Sat, 02 Mar 2024 08:17:45 +0100","generator":"reSmush.it rev.3.0.11.20240125"} 
+[2024-03-02 07:13:08 : INFO] - Re_Smush_It_Task server status: Online 
+[2024-03-02 07:13:08 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2024-03-02 07:13:08 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2024-03-02 07:13:08 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2024-03-02 07:13:08 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2024-03-02 07:13:08 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-03-02 07:13:08 : INFO] - Successfully optimized the image - /Users/harbi/Sites/localhost/wordpress/wp-content/uploads/2024/03/atrtificial-grass-labor-cost.jpeg.The file was compressed from 308.37 KB to 308.37 KB, saving 0 percent, using WP-Optimize 
+[2024-03-02 07:13:08 : INFO] - Completed processing task with ID : 14, and type 'smush' 
+[2024-03-02 07:13:08 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2024-03-02 07:13:08 : INFO] - Successfully processed the queue (smush). 14 tasks were processed out of 14. 
+[2024-03-02 07:13:08 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2024-03-02 07:13:08 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2024-03-02 07:14:08 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2024-03-02 07:14:08 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2024-03-02 07:14:08 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2024-03-02 07:14:08 : INFO] - Processing task with ID : 15, and type 'smush' 
+[2024-03-02 07:14:08 : INFO] - Re_Smush_It_Task - Attachment ID : 1105, Started on : March 02, 2024 07:13:08 
+[2024-03-02 07:14:08 : INFO] - File: atrtificial-grass-labor-cost.jpeg, Compression quality: 92 
+[2024-03-02 07:14:16 : INFO] - Backing up the original image - 2024/03/atrtificial-grass-labor-cost-updraft-pre-smush-original.jpeg 
+[2024-03-02 07:14:37 : INFO] - Successfully optimized the image - /Users/harbi/Sites/localhost/wordpress/wp-content/uploads/2024/03/atrtificial-grass-labor-cost.jpeg.The file was compressed from 308.37 KB to 308.37 KB, saving 0 percent, using WP-Optimize 
+[2024-03-02 07:14:37 : INFO] - Completed processing task with ID : 15, and type 'smush' 
+[2024-03-02 07:14:37 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2024-03-02 07:14:37 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2024-03-02 07:14:37 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2024-03-02 07:14:37 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2024-03-02 11:07:54 : INFO] - Pruning the smush log file 
