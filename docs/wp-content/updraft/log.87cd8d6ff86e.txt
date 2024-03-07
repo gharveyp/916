@@ -1,0 +1,245 @@
+0000.000 (0) Opened log file at time: Thu, 07 Mar 2024 17:00:57 +0000 on http://localhost:8888
+0000.001 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.24.1 WP: 6.4.3 PHP: 8.2.0 (apache2handler, Darwin Harbis-MacBook-Air.local 22.1.0 Darwin Kernel Version 22.1.0: Sun Oct  9 20:14:30 PDT 2022; root:xnu-8792.41.9~2/RELEASE_ARM64_T8103 arm64) MySQL: 5.7.39 (max packet size=134217728) WPLANG: en_US Server: Apache/2.4.54 (Unix) mod_fastcgi/mod_fastcgi-SNAP-0910052141 PHP/8.2.0 OpenSSL/1.0.2u mod_wsgi/3.5 Python/2.7.18 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 7M | 10M) multisite: N openssl: OpenSSL 1.0.2u  20 Dec 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.002 (0) Free space on disk containing Updraft's temporary directory: 89332.6 MB
+0000.004 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 0 (schedule: unset)
+0000.005 (0) Semaphore (f, wp_options) being initialised
+0000.006 (0) Requesting semaphore lock (f) (apparently not via scheduler)
+0000.007 (0) Set semaphore last lock (f) time to 2024-03-07 17:00:57
+0000.007 (0) Semaphore lock (f) complete
+0000.009 (0) Backup run: resumption=0, nonce=87cd8d6ff86e, file_nonce=87cd8d6ff86e begun at=1709830857 (0s ago), job type=backup
+0000.010 (0) Scheduling a resumption (1) after 300 seconds (1709831157) in case this run gets aborted
+0000.012 (0) Checking if we have a zip executable available
+0000.012 (0) Testing: /usr/bin/zip
+0000.019 (0) Output: zip warning: binziptest/test.zip not found or empty
+0000.019 (0) Output: adding: binziptest/subdir1/	(in=0) (out=0) (stored 0%)
+0000.020 (0) Output: adding: binziptest/subdir1/subdir2/	(in=0) (out=0) (stored 0%)
+0000.020 (0) Output: adding: binziptest/subdir1/subdir2/test.html	(in=131) (out=107) (deflated 18%)
+0000.021 (0) Output: total bytes=131, compressed=107 -> 18% savings
+0000.026 (0) Output: adding: binziptest/subdir1/subdir2/test2.html	(in=138) (out=113) (deflated 18%)
+0000.027 (0) Output: total bytes=269, compressed=220 -> 18% savings
+0000.027 (0) Working binary zip found: /usr/bin/zip
+0000.028 (0) Zip engine: found/will use a binary zip: /usr/bin/zip
+0000.029 (0) Creation of backups of directories: beginning
+0000.030 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0000.463 (0) Total entities for the zip file: 1936 directories, 9393 files (0 skipped as non-modified), 176.9 MB
+0000.467 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0000.470 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0000.472 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0000.475 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0000.478 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0000.480 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 600 files added (on-disk size: 0 KB)
+0000.483 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 700 files added (on-disk size: 0 KB)
+0000.485 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 800 files added (on-disk size: 0 KB)
+0000.488 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 900 files added (on-disk size: 0 KB)
+0000.490 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0000.491 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (13.7 MB, 9393 files batched, 1001 (1001) added so far); re-opening (prior size: 0 KB)
+0000.871 (0) backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: size is now: 3.20 MB
+0000.875 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 1100 files added (on-disk size: 3316.8 KB)
+0000.877 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 1200 files added (on-disk size: 3316.8 KB)
+0000.880 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 1300 files added (on-disk size: 3316.8 KB)
+0000.882 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 1400 files added (on-disk size: 3316.8 KB)
+0000.885 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 1500 files added (on-disk size: 3316.8 KB)
+0000.887 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 1600 files added (on-disk size: 3316.8 KB)
+0000.890 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 1700 files added (on-disk size: 3316.8 KB)
+0000.893 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 1800 files added (on-disk size: 3316.8 KB)
+0000.895 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 1900 files added (on-disk size: 3316.8 KB)
+0000.898 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 2000 files added (on-disk size: 3316.8 KB)
+0000.898 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (24 MB, 9393 files batched, 1001 (2002) added so far); re-opening (prior size: 3316.8 KB)
+0001.397 (0) backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: size is now: 8.70 MB
+0001.401 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 2100 files added (on-disk size: 8921.8 KB)
+0001.403 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 2200 files added (on-disk size: 8921.8 KB)
+0001.406 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 2300 files added (on-disk size: 8921.8 KB)
+0001.409 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 2400 files added (on-disk size: 8921.8 KB)
+0001.412 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 2500 files added (on-disk size: 8921.8 KB)
+0001.414 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 2600 files added (on-disk size: 8921.8 KB)
+0001.416 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 25 MB added on this batch (25.8 MB, 9393 files batched, 654 (2656) added so far); re-opening (prior size: 8921.8 KB)
+0002.013 (0) backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: size is now: 14.30 MB
+0002.015 (0) A useful amount of data was added after this amount of zip processing: 0.9 s (normalised: 0.9 s, rate: 27900.1 KB/s)
+0002.016 (0) Performance is good - will increase the amount of data we attempt to batch (time=0.94682097434998, normalised_time=0.91755965450698, max_time=2.0149369239807, data points known=1, old_max_bytes=26214400, new_max_bytes=171418173)
+0002.018 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 2700 files added (on-disk size: 14605.3 KB)
+0002.021 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 2800 files added (on-disk size: 14605.3 KB)
+0002.023 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 2900 files added (on-disk size: 14605.3 KB)
+0002.026 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 3000 files added (on-disk size: 14605.3 KB)
+0002.029 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 3100 files added (on-disk size: 14605.3 KB)
+0002.032 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 3200 files added (on-disk size: 14605.3 KB)
+0002.034 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 3300 files added (on-disk size: 14605.3 KB)
+0002.036 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 3400 files added (on-disk size: 14605.3 KB)
+0002.039 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 3500 files added (on-disk size: 14605.3 KB)
+0002.041 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 3600 files added (on-disk size: 14605.3 KB)
+0002.043 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (38.7 MB, 9393 files batched, 1001 (3657) added so far); re-opening (prior size: 14605.3 KB)
+0003.185 (0) backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: size is now: 25.30 MB
+0003.188 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 3700 files added (on-disk size: 25875.3 KB)
+0003.190 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 3800 files added (on-disk size: 25875.3 KB)
+0003.193 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 3900 files added (on-disk size: 25875.3 KB)
+0003.196 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 4000 files added (on-disk size: 25875.3 KB)
+0003.199 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 4100 files added (on-disk size: 25875.3 KB)
+0003.201 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 4200 files added (on-disk size: 25875.3 KB)
+0003.204 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 4300 files added (on-disk size: 25875.3 KB)
+0003.206 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 4400 files added (on-disk size: 25875.3 KB)
+0003.209 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 4500 files added (on-disk size: 25875.3 KB)
+0003.211 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 4600 files added (on-disk size: 25875.3 KB)
+0003.213 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (9 MB, 9393 files batched, 1001 (4658) added so far); re-opening (prior size: 25875.3 KB)
+0003.586 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 4700 files added (on-disk size: 28793.3 KB)
+0003.589 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 4800 files added (on-disk size: 28793.3 KB)
+0003.591 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 4900 files added (on-disk size: 28793.3 KB)
+0003.594 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 5000 files added (on-disk size: 28793.3 KB)
+0003.596 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 5100 files added (on-disk size: 28793.3 KB)
+0003.599 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 5200 files added (on-disk size: 28793.3 KB)
+0003.601 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 5300 files added (on-disk size: 28793.3 KB)
+0003.604 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 5400 files added (on-disk size: 28793.3 KB)
+0003.606 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 5500 files added (on-disk size: 28793.3 KB)
+0003.609 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 5600 files added (on-disk size: 28793.3 KB)
+0003.611 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (10.5 MB, 9393 files batched, 1001 (5659) added so far); re-opening (prior size: 28793.3 KB)
+0003.955 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 5700 files added (on-disk size: 33965.2 KB)
+0003.957 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 5800 files added (on-disk size: 33965.2 KB)
+0003.960 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 5900 files added (on-disk size: 33965.2 KB)
+0003.962 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 6000 files added (on-disk size: 33965.2 KB)
+0003.965 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 6100 files added (on-disk size: 33965.2 KB)
+0003.967 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 6200 files added (on-disk size: 33965.2 KB)
+0003.970 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 6300 files added (on-disk size: 33965.2 KB)
+0003.972 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 6400 files added (on-disk size: 33965.2 KB)
+0003.975 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 6500 files added (on-disk size: 33965.2 KB)
+0003.977 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 6600 files added (on-disk size: 33965.2 KB)
+0003.979 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (22 MB, 9393 files batched, 1001 (6660) added so far); re-opening (prior size: 33965.2 KB)
+0004.452 (0) backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: size is now: 51.10 MB
+0004.454 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 6700 files added (on-disk size: 52336.5 KB)
+0004.457 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 6800 files added (on-disk size: 52336.5 KB)
+0004.459 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 6900 files added (on-disk size: 52336.5 KB)
+0004.462 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 7000 files added (on-disk size: 52336.5 KB)
+0004.464 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 7100 files added (on-disk size: 52336.5 KB)
+0004.467 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 7200 files added (on-disk size: 52336.5 KB)
+0004.469 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 7300 files added (on-disk size: 52336.5 KB)
+0004.472 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 7400 files added (on-disk size: 52336.5 KB)
+0004.474 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 7500 files added (on-disk size: 52336.5 KB)
+0004.476 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 7600 files added (on-disk size: 52336.5 KB)
+0004.478 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (17 MB, 9393 files batched, 1001 (7661) added so far); re-opening (prior size: 52336.5 KB)
+0005.018 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 7700 files added (on-disk size: 58670.1 KB)
+0005.020 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 7800 files added (on-disk size: 58670.1 KB)
+0005.023 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 7900 files added (on-disk size: 58670.1 KB)
+0005.025 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 8000 files added (on-disk size: 58670.1 KB)
+0005.028 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 8100 files added (on-disk size: 58670.1 KB)
+0005.030 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 8200 files added (on-disk size: 58670.1 KB)
+0005.033 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 8300 files added (on-disk size: 58670.1 KB)
+0005.035 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 8400 files added (on-disk size: 58670.1 KB)
+0005.038 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 8500 files added (on-disk size: 58670.1 KB)
+0005.040 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 8600 files added (on-disk size: 58670.1 KB)
+0005.042 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (13.2 MB, 9393 files batched, 1001 (8662) added so far); re-opening (prior size: 58670.1 KB)
+0005.526 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 8700 files added (on-disk size: 62918 KB)
+0005.529 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 8800 files added (on-disk size: 62918 KB)
+0005.531 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 8900 files added (on-disk size: 62918 KB)
+0005.534 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 9000 files added (on-disk size: 62918 KB)
+0005.536 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 9100 files added (on-disk size: 62918 KB)
+0005.539 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 9200 files added (on-disk size: 62918 KB)
+0005.541 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.tmp: 9300 files added (on-disk size: 62918 KB)
+0005.886 (0) Creating zip file manifest (backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.list-temp.tmp)
+0005.907 (0) Successfully created zip file manifest (size: 797429)
+0006.754 (0) Created plugins zip (0) - 63838.6 KB in 6.7 s (9496.1 KB/s) (sha1: 2d8bdf4c9cc61ba099ddffa6a749c1e80ca37085, sha256: e4b8424a8d0b2417765dabc6ff1cb90603ef235c54853952fc8d89b76ba5e20c)
+0006.765 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0006.765 (0) No remote despatch: user chose no remote backup service
+0006.766 (0) Recording as successfully uploaded: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip
+0006.767 (0) Deleting zip manifest (backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip.list.tmp)
+0006.769 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0006.770 (0) Number of backup sets in history: 0; groups (db): 1
+0006.770 (0) Number of backup sets in history: 0; groups (files): 1
+0006.771 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0006.774 (0) Beginning creation of dump of themes (split every: 400 MB)
+0006.861 (0) Total entities for the zip file: 292 directories, 1749 files (0 skipped as non-modified), 21.9 MB
+0006.864 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0006.867 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0006.869 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0006.871 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0006.874 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0006.876 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-themes.zip.tmp: 600 files added (on-disk size: 0 KB)
+0006.878 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-themes.zip.tmp: 700 files added (on-disk size: 0 KB)
+0006.881 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-themes.zip.tmp: 800 files added (on-disk size: 0 KB)
+0006.883 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-themes.zip.tmp: 900 files added (on-disk size: 0 KB)
+0006.885 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-themes.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0006.886 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (13.5 MB, 1749 files batched, 1001 (1001) added so far); re-opening (prior size: 0 KB)
+0007.239 (0) backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-themes.zip.tmp: size is now: 10.20 MB
+0007.243 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-themes.zip.tmp: 1100 files added (on-disk size: 10439.4 KB)
+0007.246 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-themes.zip.tmp: 1200 files added (on-disk size: 10439.4 KB)
+0007.248 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-themes.zip.tmp: 1300 files added (on-disk size: 10439.4 KB)
+0007.251 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-themes.zip.tmp: 1400 files added (on-disk size: 10439.4 KB)
+0007.253 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-themes.zip.tmp: 1500 files added (on-disk size: 10439.4 KB)
+0007.256 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-themes.zip.tmp: 1600 files added (on-disk size: 10439.4 KB)
+0007.259 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-themes.zip.tmp: 1700 files added (on-disk size: 10439.4 KB)
+0007.528 (0) backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-themes.zip.tmp: size is now: 14.40 MB
+0007.552 (0) Creating zip file manifest (backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-themes.zip.list-temp.tmp)
+0007.557 (0) Successfully created zip file manifest (size: 133229)
+0007.753 (0) Created themes zip (0) - 14716.7 KB in 1 s (15041.9 KB/s) (sha1: f0395c07f512d0f974aca501bfd979dc99201ebe, sha256: 44266f1b069887bfd184c93d2a643c63ff7d8444de8d21c44a3ebef92a89a807)
+0007.757 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0007.758 (0) No remote despatch: user chose no remote backup service
+0007.758 (0) Recording as successfully uploaded: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-themes.zip
+0007.760 (0) Deleting zip manifest (backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-themes.zip.list.tmp)
+0007.761 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0007.762 (0) Number of backup sets in history: 0; groups (db): 1
+0007.763 (0) Number of backup sets in history: 0; groups (files): 1
+0007.763 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0007.767 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0007.767 (0) Looking for candidates to backup in: /Users/harbi/Sites/localhost/wordpress/wp-content/uploads
+0007.768 (0) finding files: 2024: adding to list (1)
+0007.769 (0) finding files: wpo-plugins-tables-list.json: adding to list (2)
+0007.769 (0) finding files: wpforms: adding to list (3)
+0007.769 (0) finding files: forminator: adding to list (4)
+0007.770 (0) finding files: elementor: adding to list (5)
+0007.770 (0) finding files: blocksy: adding to list (6)
+0007.770 (0) finding files: wpo: adding to list (7)
+0007.772 (0) finding files: .htaccess: adding to list (8)
+0007.772 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0007.805 (0) Total entities for the zip file: 15 directories, 273 files (0 skipped as non-modified), 38.4 MB
+0007.808 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0007.810 (0) Zip: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0008.214 (0) backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-uploads.zip.tmp: size is now: 33.40 MB
+0008.219 (0) Creating zip file manifest (backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-uploads.zip.list-temp.tmp)
+0008.221 (0) Successfully created zip file manifest (size: 17669)
+0008.679 (0) Created uploads zip (0) - 34247.4 KB in 0.9 s (37875.3 KB/s) (sha1: 23fd952bd84ffbc92cb962216693fbcee3c42318, sha256: 2efec6eb6a6f02a2150dedf00897250d0a1b2200965d06379f7d5e80abb5aff4)
+0008.681 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0008.681 (0) No remote despatch: user chose no remote backup service
+0008.682 (0) Recording as successfully uploaded: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-uploads.zip
+0008.683 (0) Deleting zip manifest (backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-uploads.zip.list.tmp)
+0008.685 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0008.686 (0) Number of backup sets in history: 0; groups (db): 1
+0008.686 (0) Number of backup sets in history: 0; groups (files): 1
+0008.686 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0008.688 (0) No backup of mu-plugins: excluded by user's options
+0008.689 (0) Beginning backup of other directories found in the content directory (index: 0)
+0008.690 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0008.690 (0) Looking for candidates to backup in: /Users/harbi/Sites/localhost/wordpress/wp-content
+0008.691 (0) finding files: upgrade: skipping: excluded by options
+0008.692 (0) finding files: .DS_Store: adding to list (1)
+0008.692 (0) finding files: index.php: adding to list (2)
+0008.693 (0) finding files: upgrade-temp-backup: adding to list (3)
+0008.693 (0) finding files: cache: skipping: excluded by options
+0008.693 (0) finding files: plugins: skipping: this is the plugins directory
+0008.694 (0) finding files: uploads: skipping: this is the uploads directory
+0008.694 (0) finding files: updraft: skipping: this is the updraft directory
+0008.694 (0) finding files: advanced-cache.php: adding to list (4)
+0008.695 (0) finding files: wpo-cache: adding to list (5)
+0008.695 (0) finding files: themes: skipping: this is the themes directory
+0008.699 (0) Total entities for the zip file: 3 directories, 4 files (0 skipped as non-modified), 0 MB
+0008.706 (0) backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-others.zip.tmp: size is now: 0.00 MB
+0008.708 (0) Creating zip file manifest (backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-others.zip.list-temp.tmp)
+0008.708 (0) Successfully created zip file manifest (size: 148)
+0008.710 (0) Created others zip (0) - 3.1 KB in 0 s (221.3 KB/s) (sha1: 454d7b96e7b5b38a46363febb756c14bf8dbe671, sha256: 67f7f84dc84db54a3b0cfc736b5e4487d46263c0b6f2da530bedf740f4e004d6)
+0008.712 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0008.712 (0) No remote despatch: user chose no remote backup service
+0008.713 (0) Recording as successfully uploaded: backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-others.zip
+0008.714 (0) Deleting zip manifest (backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-others.zip.list.tmp)
+0008.715 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0008.715 (0) Number of backup sets in history: 0; groups (db): 1
+0008.715 (0) Number of backup sets in history: 0; groups (files): 1
+0008.716 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0008.719 (0) Saving backup status to database (elements: 8)
+0008.720 (0) No database backup (wp) - not part of this run
+0008.721 (0) backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-plugins.zip: plugins: This file has already been successfully uploaded
+0008.721 (0) backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-themes.zip: themes: This file has already been successfully uploaded
+0008.721 (0) backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-uploads.zip: uploads: This file has already been successfully uploaded
+0008.721 (0) backup_2024-03-07-1700_916_Sacramento_Artificial_Turf_87cd8d6ff86e-others.zip: others: This file has already been successfully uploaded
+0008.722 (0) Saving backup history. Total backup size: 110.2 MB
+0008.722 (0) Resume backup (87cd8d6ff86e, 0): finish run
+0008.723 (0) There were no more files that needed uploading
+0008.723 (0) Decremented the semaphore (f) by 1
+0008.723 (0) Semaphore (f) unlocked
+0008.724 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0008.725 (0) No email will be sent - this backup set was empty.
+0008.725 (0) The backup succeeded and is now complete
